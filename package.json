@@ -1,0 +1,16 @@
+{
+  "name": "projetfinance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -o css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.0",
+    "nodesass": "0.0.2-security"
+  }
+}
